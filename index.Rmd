@@ -4,8 +4,12 @@ image: "matt_ashby.jpg"
 links:
   - label: Website
     url: "http://lesscrime.info/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/mattashby.com"
   - label: Twitter
     url: "https://twitter.com/lesscrime"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/matt-ashby-2b2773281/"
   - label: ORCiD
     url: "http://orcid.org/0000-0003-4201-9239"
   - label: Google Scholar
@@ -20,9 +24,7 @@ output:
   postcards::jolla
 ---
  
-I am a crime scientist at the UCL Jill Dando Institute -- I teach and do 
-research on how the concentration of crime in time and space can be used to 
-prevent or respond to crime.
+I am a crime scientist at the UCL Jill Dando Institute -- I use data to help police reduce crime.
 
 ```{r, echo=FALSE, include=FALSE}
 if (!dir.exists(here::here("output"))) dir.create("output")
