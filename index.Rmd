@@ -4,6 +4,8 @@ image: "matt_ashby.jpg"
 links:
   - label: Website
     url: "http://lesscrime.info/"
+  - label: UCL profile
+    url: "https://profiles.ucl.ac.uk/33629-matt-ashby"
   - label: Bluesky
     url: "https://bsky.app/profile/mattashby.com"
   - label: Twitter
